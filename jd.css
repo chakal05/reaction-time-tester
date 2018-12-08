@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin: 10px;
+}
+.cercle{
+width: 200px;
+height: 200px;
+background-color: red;
+text-align: center;
+color: white;
+display: none;
+position: relative;
+}
+ p{
+    font-size: 20px;
+}
+#timetaken{
+    font-size: 25px;
+}
